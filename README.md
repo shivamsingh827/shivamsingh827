@@ -1,8 +1,8 @@
+<img align="right" alt="Coding" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsingh827&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsingh827" /> </p>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 
 - 📫 How to reach me **100shivam827@gmail.com**
 
